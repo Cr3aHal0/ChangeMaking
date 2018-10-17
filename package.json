@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/standalone": "^7.1.0",
+    "babel-minify": "^0.5.0",
+    "babel-preset-minify": "^0.5.0",
+    "jest": "^23.6.0"
+  }
+}
